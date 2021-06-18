@@ -24,6 +24,7 @@ body{
     color: #fff;
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NGC_4414_%28NASA-med%29.jpg/1024px-NGC_4414_%28NASA-med%29.jpg);
     background-attachment: fixed;
+    margin: 0px ;
 }
 
 .text_beckground{
