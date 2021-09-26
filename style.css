@@ -21,7 +21,7 @@ body{
 }
 
 hr{
-    color: blueviolet;
+    color: #FEC260;
     width: 80%;
     height: 0,5%;
 }
@@ -50,4 +50,16 @@ hr{
 
 img{
     border-radius: 5%;
+}
+
+h1, h2, h3, h4{
+    color: #FEC260;
+}
+
+li{
+    color: #FEC260;
+}
+
+span{
+    color: #fff;
 }
