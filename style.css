@@ -5,12 +5,6 @@ button{
     cursor: pointer;
 }
 
-.sun_button{
-    top: 0%;
-    right: 0%;
-    position: absolute;
-}
-
 footer{
     background-color: rgb(46, 7, 65);
 }
@@ -29,5 +23,20 @@ body{
     margin-left:auto;
     margin-right:auto;
     width: 95%;
-    position: relative;
+    display: block;
+
+}
+
+.txt{
+    display: inline-block;
+    margin: 0%;
+    padding: 0%;
+    vertical-align: top;
+}
+
+.img{
+    display: inline-block;
+    margin: 0%;
+    padding: 0%;
+    vertical-align: 0%;
 }
