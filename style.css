@@ -2,11 +2,12 @@ button{
     background-color: transparent;
     background-repeat: no-repeat;
     border: none;
-    cursor: pointer;
+    cursor: default;
 }
 
 footer{
-    background-color: rgb(46, 7, 65);
+    background-color: rgb(46, 0, 68);
+    height: 60%;
 }
 
 body{
