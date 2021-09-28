@@ -13,7 +13,7 @@ footer{
 body{
     color: rgb(255, 255, 255);
     background:linear-gradient(45deg, #3b0630, #07081d);
-    background-attachment:scroll;
+    background-attachment:fixed;
     margin: 0%;
     width: 100%;
     font-family: sans-serif;
@@ -32,6 +32,15 @@ hr{
     width: 95%;
     display: block;
 
+}
+
+.block_f{
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    background-color: #00000054;
+    width: 98%;
+    padding-left: 2%;
 }
 
 .txt{
